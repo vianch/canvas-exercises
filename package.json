@@ -1,0 +1,7 @@
+{
+  "name": "canvas",
+  "version": "0.0.1",
+  "description": "canvas examples",
+  "main": "index.js",
+  "license": "MIT"
+}
