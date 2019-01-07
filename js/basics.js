@@ -27,8 +27,8 @@
     let yPosition;
 
     for(let i = 0; i < 5; ++i) {
-        xPosition = Math.random() * window.innerWidth / 2;
-        yPosition = Math.random() * window.innerHeight / 2;
+        xPosition = Math.random() * canvas.width;
+        yPosition = Math.random() * canvas.height;
 
         context.beginPath();
         context.arc(xPosition, yPosition, 30, 0, Math.PI * 2, false);

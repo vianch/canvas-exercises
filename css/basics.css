@@ -42,7 +42,7 @@ table {
 	border-spacing: 0;
 }
 
-canvas {
+.canvas-resizing {
     border: 1px dotted black;
     position: fixed;
     left: 25%;
